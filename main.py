@@ -19,3 +19,5 @@ peso = input("Digite o seu peso:")
 print(nome)
 print(idade)
 print(peso)
+
+#conversoes e cast
